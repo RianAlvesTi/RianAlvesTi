@@ -12,9 +12,8 @@
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ###                                  📓LINGUAGENS DE ESTILO
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
+![MARKDOWN](https://cdn-icons-png.flaticon.com/64/18548/18548448.png)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
 
 
